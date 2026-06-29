@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0154/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃恭十四州記秦兼天下始皇二十六年廢五等之爵立郡縣之官以公國為大侯伯為小大郡曰守小群曰尉郡之言君也故公侯之封而言君者至尊也郡守專權君臣之禮彌崇今郡字君在其左邑左右君為元首邑以載民故居名於君而謂之郡也類聚縣萬戶以上為令則子國也于戶為長則男國也今人呼縣為百里方男本方百里也故言今之百里古之諸侯御覽縣弦也弦以貞直言下體之居鄰民之位不輕其誓施繩用法不曲如弦弦聲近縣故以取名今懸字在半也水經注秦兼天下改附庸為鄉則有族今嗇夫是也鄉之言境言其人境域內非天王所置故言鄉秦兼天下改州牧為刺史朱明之時則出巡行州部元英之月則遷諸天府表奏刺史言其刺舉示法史者使也言為天子所使也並御覽
+  hash: sha256:6ff7ba03a4dfbb756369ca235b522bbd878c5fe012df7e0358755cf4e497aaf7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0154_CHANT_001-1a.1-h}
+metadata:
+  title: 黃恭十四州記一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0154.xml
+hash: sha256:460fcf880ff3f469e3163210587931c1fe84d931dc565534d3cdf030c0bca54a
