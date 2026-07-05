@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 1, filename: KR2k0154_001.yaml, hash: 'sha256:460fcf880ff3f469e3163210587931c1fe84d931dc565534d3cdf030c0bca54a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0154_001.markers.yaml, hash: 'sha256:3c07bd7f30157fd967b7b5626ffb6d682e167f27ff4bd03109af645b0a3b65ca'}
+  - {seq: 1, role: markers, filename: assets/KR2k0154_001.markers.yaml, hash: 'sha256:8ce93e82ffbcab8f1ef8d8066a5d63903f7fba87eed5350156b16277158bc36d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 黃恭十四州記
   type: section
   level: 1
-hash: sha256:736fedbf5ee365c3a0d40ec7db97ddec16cfc025926f5b1a069009b2f77dcfe9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:da53f8a0c8abe5ffd0fc8c360b28d7a28381b9ae31f88372e6227752d3b66d39
