@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0154/v1
 canonical_location: https://kanripo.org/bkk/KR2k0154/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 黃恭十四州記一卷
   identifiers:
@@ -17,9 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0154_001.yaml, hash: 'sha256:460fcf880ff3f469e3163210587931c1fe84d931dc565534d3cdf030c0bca54a'}
+  - seq: 1
+    filename: KR2k0154_001.yaml
+    hash: sha256:460fcf880ff3f469e3163210587931c1fe84d931dc565534d3cdf030c0bca54a
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0154_001.markers.yaml, hash: 'sha256:8ce93e82ffbcab8f1ef8d8066a5d63903f7fba87eed5350156b16277158bc36d'}
+  - seq: 1
+    role: markers
+    filename: assets/KR2k0154_001.markers.yaml
+    hash: sha256:8ce93e82ffbcab8f1ef8d8066a5d63903f7fba87eed5350156b16277158bc36d
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +36,4 @@ table_of_contents:
   label: 黃恭十四州記
   type: section
   level: 1
-hash: sha256:da53f8a0c8abe5ffd0fc8c360b28d7a28381b9ae31f88372e6227752d3b66d39
+hash: sha256:2a49e6172e8db8366b397df1d390bdc0045c5dbfd90fcf0599311c03688d8c8e
